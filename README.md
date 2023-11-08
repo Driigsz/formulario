@@ -17,7 +17,7 @@ Projeto de criação de uma página de cadastro de clientes <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="" width="100%">
+  <img alt="projeto Formulario" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
